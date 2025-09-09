@@ -1,2 +1,4 @@
-Welcome to the HypTPC-Wiki wiki!
+Welcome to the hyptpc operation wiki!
 
+* [[Overall Setup]]
+* [[Process]]
